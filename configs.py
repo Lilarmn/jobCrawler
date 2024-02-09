@@ -1,0 +1,5 @@
+DRIVER ='{ODBC Driver 17 for SQL Server}'
+SERVER = '.'
+DATABASE = 'CrawlData'
+UID = 'sa'
+PWD = 'armanjt7'
